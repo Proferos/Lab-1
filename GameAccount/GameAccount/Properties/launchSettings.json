@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "GameAccount": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\ketch\\source\\repos\\GameAccount\\GameAccount\\Program.cs"
+    }
+  }
+}

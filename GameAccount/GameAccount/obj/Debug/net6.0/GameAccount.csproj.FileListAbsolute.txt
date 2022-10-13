@@ -1,0 +1,15 @@
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\GameAccount.csproj.AssemblyReference.cache
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\GameAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\GameAccount.AssemblyInfoInputs.cache
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\GameAccount.AssemblyInfo.cs
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\GameAccount.csproj.CoreCompileInputs.cache
+C:\Users\ketch\source\repos\GameAccount\GameAccount\bin\Debug\net6.0\GameAccount.exe
+C:\Users\ketch\source\repos\GameAccount\GameAccount\bin\Debug\net6.0\GameAccount.deps.json
+C:\Users\ketch\source\repos\GameAccount\GameAccount\bin\Debug\net6.0\GameAccount.runtimeconfig.json
+C:\Users\ketch\source\repos\GameAccount\GameAccount\bin\Debug\net6.0\GameAccount.dll
+C:\Users\ketch\source\repos\GameAccount\GameAccount\bin\Debug\net6.0\GameAccount.pdb
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\GameAccount.dll
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\refint\GameAccount.dll
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\GameAccount.pdb
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\GameAccount.genruntimeconfig.cache
+C:\Users\ketch\source\repos\GameAccount\GameAccount\obj\Debug\net6.0\ref\GameAccount.dll
